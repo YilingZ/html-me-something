@@ -3,27 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="8e1fe52f-6c59-4e45-a5c2-7a2843ef2bc0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC270081.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC270081.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC270103.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC270103.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290108.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290108.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290129.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290129.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290138.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290138.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290140.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290140.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290145.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290145.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290146.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290146.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290147.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290147.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290148.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290148.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290150.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290150.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290152.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290152.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290177.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290177.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290180.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290180.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290181.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290181.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290182.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290182.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290183.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC290183.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/PC300266.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/PC300266.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/Slippery.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/Slippery.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/learning cactus .JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/learning cactus .JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pics/chong/the sunrise I missed.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/chong/the sunrise I missed.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/PC290108.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/PC290181.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/cactus.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/chong/PC270103.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290129.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290140.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290146.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290148.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/chong/PC290183.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/chong/Slippery.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/chong/climbing.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/desert.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/learning cactus .JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/note.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/shadow.JPG" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,15 +25,56 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="html-me-something" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="15">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding>
+                <element signature="n#p#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#p#6;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pics/sunrise.JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pics/aftersunset.JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pics/sunset.JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pics/1.JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pics/2.JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pics/flower.JPG">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -55,8 +90,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="193" />
-    <option name="y" value="23" />
+    <option name="x" value="303" />
+    <option name="y" value="51" />
     <option name="width" value="1023" />
     <option name="height" value="803" />
   </component>
@@ -65,7 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,22 +112,22 @@
               <item name="html-me-something" type="462c0819:PsiDirectoryNode" />
               <item name="Pics" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="html-me-something" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-me-something" type="462c0819:PsiDirectoryNode" />
-              <item name="Pics" type="462c0819:PsiDirectoryNode" />
-              <item name="chong" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559781739336" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560616735856" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Pics" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,72 +152,217 @@
       <option name="presentableId" value="Default" />
       <updated>1559769209226</updated>
     </task>
+    <task id="LOCAL-00001" summary="git commit">
+      <created>1559781856560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559781856560</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git commit">
+      <created>1560360061282</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560360061282</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git commit">
+      <created>1560362743230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560362743230</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git commit">
+      <created>1560364902984</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560364902984</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git commit">
+      <created>1560367981335</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560367981335</updated>
+    </task>
+    <task id="LOCAL-00006" summary="git commit">
+      <created>1560367996810</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560367996810</updated>
+    </task>
+    <task id="LOCAL-00007" summary="git commit">
+      <created>1560368446848</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560368446848</updated>
+    </task>
+    <task id="LOCAL-00008" summary="git commit">
+      <created>1560400620849</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560400620849</updated>
+    </task>
+    <task id="LOCAL-00009" summary="git commit">
+      <created>1560402600310</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1560402600310</updated>
+    </task>
+    <task id="LOCAL-00010" summary="git commit">
+      <created>1560402702101</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1560402702101</updated>
+    </task>
+    <task id="LOCAL-00011" summary="git commit">
+      <created>1560615723426</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1560615723426</updated>
+    </task>
+    <task id="LOCAL-00012" summary="git commit">
+      <created>1560615854466</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1560615854466</updated>
+    </task>
+    <task id="LOCAL-00013" summary="git commit">
+      <created>1560616056252</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1560616056252</updated>
+    </task>
+    <task id="LOCAL-00014" summary="git commit">
+      <created>1560616567521</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1560616567522</updated>
+    </task>
+    <task id="LOCAL-00015" summary="git commit">
+      <created>1560616734691</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1560616734691</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="193" y="23" width="1023" height="803" extended-state="0" />
+    <frame x="303" y="51" width="1023" height="803" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2517839" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4947589" visible="true" weight="0.2038736" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5052411" side_tool="true" weight="0.19164118" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Pics/chong/the sunrise I missed.JPG">
+    <entry file="file://$PROJECT_DIR$/Pics/chong/PC270103.JPG" />
+    <entry file="file://$PROJECT_DIR$/Pics/chong/PC290129.JPG" />
+    <entry file="file://$PROJECT_DIR$/Pics/chong/PC290148.JPG" />
+    <entry file="file://$PROJECT_DIR$/Pics/chong/PC290183.JPG" />
+    <entry file="file://$PROJECT_DIR$/Pics/chong/PC290146.JPG" />
+    <entry file="file://$PROJECT_DIR$/Pics/chong/Slippery.JPG" />
+    <entry file="file://$PROJECT_DIR$/Pics/chong/PC290140.JPG" />
+    <entry file="file://$PROJECT_DIR$/Pics/chong/climbing.JPG" />
+    <entry file="file://$PROJECT_DIR$/Pics/PC290108.JPG" />
+    <entry file="file://$PROJECT_DIR$/Pics/desert2.JPG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pics/chong/PC270103.JPG">
+    <entry file="file://$PROJECT_DIR$/Pics/desert.JPG" />
+    <entry file="file://$PROJECT_DIR$/Pics/sunfall.JPG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pics/chong/PC290129.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pics/chong/PC290138.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pics/chong/PC290140.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pics/chong/PC290145.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pics/chong/PC290146.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pics/chong/PC290147.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pics/chong/PC290150.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/Pics/note.JPG" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="180">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pics/shadow.JPG" />
+    <entry file="file://$PROJECT_DIR$/Pics/learning cactus .JPG" />
+    <entry file="file://$PROJECT_DIR$/Pics/cactus.JPG" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="n#p#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#p#6;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pics/sunrise.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pics/aftersunset.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pics/sunset.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pics/1.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pics/2.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pics/flower.JPG">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
